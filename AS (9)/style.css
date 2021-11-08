@@ -1,0 +1,528 @@
+.main{
+    width: 60%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    
+}
+
+.maino{
+    width: 66%;
+    min-width: 66%;
+}
+.maino2{
+    width: 33%;
+    min-width: 33%;
+}
+
+.imageone{
+    background-image: url("./images/imageone.png");
+    height: 295px;
+    min-height: 295px;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    
+    
+}
+
+.tone{
+    background-color: #1b53ba;
+    width: 98.5%;
+    color: aliceblue;
+    border-radius: 5px;
+    padding-top: 1.5em;
+    font-size: 20px;
+    
+}
+
+p{
+    color: black;
+    padding-bottom: 2.5em;
+    
+}
+
+.imagetwo{
+    background-image: url("./images/first\ one.png");
+    height: 140px;
+    background-repeat: no-repeat;
+}
+
+.ttwo{
+    background-color: #313131;
+    width: 95%;
+    padding-bottom: 0.5em;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+.firstone{
+      background-image: url("./images/first\ one.png");
+      height: 140px;
+      background-repeat: no-repeat;
+}
+
+.secondone{
+    background-image: url("./images/second\ one.png");
+    height: 140px;
+    background-repeat: no-repeat;
+}
+
+.thirdone{
+    background-image: url("./images/third\ one.png");
+    height: 140px;
+    background-repeat: no-repeat;
+}
+ .maintwo{
+    width: 60%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.maintwop1{
+    width: 33%;
+    
+}
+
+.maintwop2{
+    width: 33%;
+}
+
+.maintwop3{
+    width: 33%;
+}
+
+.textone{
+   width: 94.5%;
+    color: aliceblue;
+    font-size: 21px;
+    background-color: #313131;
+    padding-bottom: 0.5em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.texttwo{
+    width: 94.5%;
+    color: aliceblue;
+    font-size: 21px;
+    background-color: #ff90c4;
+    padding-bottom: 0.5em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.textthree{
+    width: 94.5%;
+    color: aliceblue;
+    font-size: 21px;
+    background-color: #ee6b2f;
+    padding-bottom: 0.5em;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.poki{
+    margin: 0 auto;
+    width: 93%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pokipic{
+    background-image: url("./images/pokipic.png");
+    height: 342px;
+    background-repeat: no-repeat;
+    width: 16%;
+}
+
+.pokipic1{
+    background-image: url("./images/pokipic1.png");
+    height: 341px;
+    background-repeat: no-repeat;
+    width: 17%;
+}
+
+.pokipic2{
+    background-image: url("./images/pokipic2.png");
+    height:415px;
+    background-repeat: no-repeat;
+    width: 25%;
+    margin-top: -40px;
+}
+
+.pokipic3{
+    background-image: url("./images/pokipic3.png");
+    height:345px;
+    background-repeat: no-repeat;
+    width: 18%;
+}
+
+.pokipic4{
+    background-image: url("./images/pokipic4.png");
+    height: 341px;
+    background-repeat: no-repeat;
+    width: 14%;
+}
+
+.zoruapic{
+    background-image: url("./images/zaruapic.png");
+    height: 147px;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+}
+
+.zoruapictext{
+    background-color: #E3350D;
+    font-size: 21px;
+    border-radius: 5px;
+    color: aliceblue;
+    padding-top: 1.5em;
+}
+
+.p{
+    color: #ccc;
+    font-size: 15px;
+}
+
+.pokimonpic{
+    background-image: url("./images/pokimonpic.png");
+    height: 143px;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+}
+
+.pokimonpictext{
+    background-color: #30a7d7;
+    color: aliceblue;
+    font-size: 21px;
+    border-radius: 5px;
+    padding-top: 1.5em;
+    
+}
+
+.p1{
+    font-size: 15px;
+    color: #ccc;
+}
+
+.white{
+    color:rgb(212, 209, 209);
+    background-color: white;
+    font-size: 30px;
+}
+.maindiv {
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.remixpic{
+    background-image: url("./images/remixpic.png");
+    height: 144px;
+    background-repeat: no-repeat;
+}
+
+.remixpictext{
+    font-size: 21px;
+    border-radius: 5px;
+    background-color: #C7AA79;
+    padding-top: 1.5em;
+
+}
+
+.p2{
+    font-size: 15px;
+
+}
+
+.moviepic{
+    background-image: url("./images/moviepic.png");
+    height: 144px;
+    background-repeat: no-repeat;
+    border-radius: 6px;   
+}
+
+.moviepictext{
+    background-color: #ee6b2f;
+    padding-top: 1.5em;
+    font-size: 21px;
+    border-radius: 5px;
+}
+
+.view{
+    font-size: 21px;
+    background-color: #ee6b2f;
+    padding: 0 auto;
+    border-radius: 5px;
+
+}
+
+.latest{
+    background-color: #1b53ba;
+    padding-top: 1.5em;
+    padding-left: 2em;
+     padding-bottom: 1.5em; ;
+     border-radius: 5px;
+
+}
+
+.mandivp{
+    padding-right: 10px;
+}
+
+.footerp{
+    font-size: 20px;
+    color: aliceblue;
+    padding-bottom: 0;
+}
+
+.footerimg{
+    background-image: url("./images/fotterimg.png");
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    width: 60%;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(48, 47, 47);
+    
+}
+
+.footerp1{
+    width: 33%;
+    border-right:solid black;
+    border-width: 0.1em;
+}
+
+.footerp2{
+    border-right:solid black;
+    border-width: 0.1em;
+    width: 33%;margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.footerp3{
+    width: 33%;
+    display: flex;
+    align-items: center;
+}
+
+.footerimg{
+    width: 15%;
+    padding-left: 110px;
+}
+
+.footerimgtext{
+    width: 50%;
+    font-size: 10px;
+    color: aliceblue;
+
+}
+
+.footerpara{
+    padding-bottom: 2.5px;
+    color: aliceblue;
+    text-decoration-line: underline;
+}
+
+.footerpara1{
+    padding-bottom: 0px;
+    color: aliceblue;
+    text-decoration-line: underline;
+
+}
+
+.footerpara2{
+    padding-bottom: 0;    color: aliceblue;
+    text-decoration-line: underline;
+
+
+}
+.footerpara3{
+    padding-bottom: 0;
+    color: aliceblue;
+    text-decoration-line: underline;
+
+
+}
+
+.black{
+    background-color: rgb(48, 47, 47);
+    color: aliceblue;
+}
+
+.footerpara4{
+    padding-bottom: 0;
+    color: aliceblue;
+    text-decoration-line: underline;
+}
+
+.navlist1{
+    background-image: url("./images/pokemon\ logo.png");
+    height: 40px;
+    width: 25%;
+    background-repeat: no-repeat;
+}
+
+.navlist2{
+    height: 57px;
+    background-image: url("./images/pikachu.png");
+    width: 25%;
+    background-repeat: no-repeat;
+}
+
+.navlist3{
+    height: 57px;
+    background-image: url("./images/play.png");
+    background-repeat: no-repeat;
+    width: 25%;
+}
+
+.navlist4{
+    height: 49px;
+    background-image: url("./images/something.png");
+    width: 46%;
+    background-repeat: no-repeat;
+}
+
+.navlist5{
+    height: 54px;
+    background-image: url("./images/celebrations.png");
+    width: 46%;
+    background-repeat: no-repeat;
+}
+
+.navlist6{
+    height: 54px;
+    background-image: url("./images/lastlogo.png");
+    background-repeat: no-repeat;
+    width: 46%;
+}
+
+.nav{
+    width: 60%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.navcolor{
+    background-color: rgba(255, 255, 255, 0.624);
+}
+
+.home{
+    background-color:#42424291 ;
+    width: 14%;
+    padding: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeimg{
+    background-image: url("./images/homelogo.png");
+    height: 30px;
+    background-repeat: no-repeat;
+    width: 30px;
+}
+
+.hometext{
+    color: aliceblue;
+    padding: 0 auto;
+}
+
+.pokideximg{
+    background-image: url("./images/pokidex.png");
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.pokidextext{
+    color: #42424291;
+}
+
+.videoimg{
+    background-image: url("./images/video.png");    
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.videotext{
+    color: #42424291;
+
+}
+
+.tvimg{
+    background-image: url("./images/tv.png");
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.tvtext{
+    color: #42424291;
+
+}
+
+.eventsimg{
+    background-image: url("./images/events.png");
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.eventstext{
+    color: #42424291;
+
+}
+
+.newsimg{
+    background-image: url("./images/news.png");
+    height: 30px;
+    background-repeat: no-repeat;
+}
+
+.newstext{
+    color: #42424291;
+
+}
+
+.nav2{
+    width: 50%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.pokidex{
+    width: 12%;
+    
+}
+
+
+
+.video{
+    width: 20%;
+}
+
+.tv{
+width: 20%;
+}
+
+.events{
+    width: 20%;
+}
+
+.news{
+    width: 20%;
+}
